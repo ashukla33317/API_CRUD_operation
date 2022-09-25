@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ashukla33317.github.io/Api_CRUD/static/css/main.a759dab0.css",
+    "main.js": "/ashukla33317.github.io/Api_CRUD/static/js/main.f38157c4.js",
+    "index.html": "/ashukla33317.github.io/Api_CRUD/index.html",
+    "main.a759dab0.css.map": "/ashukla33317.github.io/Api_CRUD/static/css/main.a759dab0.css.map",
+    "main.f38157c4.js.map": "/ashukla33317.github.io/Api_CRUD/static/js/main.f38157c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a759dab0.css",
+    "static/js/main.f38157c4.js"
+  ]
+}
